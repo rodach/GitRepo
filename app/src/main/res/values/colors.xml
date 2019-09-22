@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sensualRed">#C90A00</color>
+    <color name="sensualRedDark">#750000</color>
+    <color name="tenderOrange">#FF5100</color>
+    <color name="tenderOrangeDark">#B90000</color>
+    <color name="happyYellow">#FFB100</color>
+    <color name="happyYellowDark">#FF7A00</color>
+    <color name="aggressiveBlue">#0B6494</color>
+    <color name="aggressiveBlueDark">#0F3C80</color>
+    <color name="tempoGrey">#8A8599</color>>
+    <color name="tempoGreyDark">#564F6B</color>
+    <color name="black">#1C1C1C</color>
+    <color name="darker">#04131B</color>
+    <color name="dark">#061B25</color>
+    <color name="medium">#505F66</color>
+    <color name="light">#E9EAEA</color>
+    <color name="lighter">#F5F5F5</color>
+</resources>
